@@ -9,7 +9,7 @@ import SwiftUI
 
 struct ContentView: View {
 
-    let fio = "Буркин М. А. 105 уцп"
+    let fio = "Буркин М. А."
 
     @State var currentFio: String = ""
 
